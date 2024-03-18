@@ -9,21 +9,19 @@ Salhack is a Forge mod made by ionar. In 2021, ionar made the decision to leave 
  
 ## Installation
 
-Salhack is a forge mod for `1.12.2`. We provide already pre build jar files on our [release page](https://github.com/CreepyOrb924/creepy-salhack/releases). To use salhack just drop the jar file in your mods folder and start forge. Have fun!
+Jiyuhack is a fabric mod for `1.20.4`. We provide already pre build jar files on our [release page](https://github.com/hyeongikas/jiyuhack-client/releases). To use Jiyuhack,  drop the jar file in your mods folder with Fabric API and launch. Have fun!
 
-**Tip:** You can open the GUI containing all "tweaks" with your left arrow at default (You can change that later.)
+**Tip:** You can open the GUI containing all "tweaks" with your ```Left Shift``` at default (You can change that later.)
 
 ## Support
 
-If you have a bug or want to suggest a feature raise an issue on Github or contact us via our [Discord](https://discord.gg/B8Tx5HYYBm) server.
+If you have a bug or want to suggest a feature raise an issue on Github.
 
 ## Info
 
 Some of the code is pasted and proper credits are not given, but atleast it's open source now? :)
 
-There is no git history because it contains personal info.
-
-Created by `ionar2` and many [others](https://github.com/ionar2/salhack/graphs/contributors). If you have any legal disagreements, please read [this](https://help.github.com/en/github/site-policy/guide-to-submitting-a-dmca-takedown-notice)
+Created by `Imperium` and many others. If you have any legal disagreements, please read [this](https://help.github.com/en/github/site-policy/guide-to-submitting-a-dmca-takedown-notice)
 
 ## Updates in Creepy Branch
 
