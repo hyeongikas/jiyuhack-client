@@ -1,4 +1,4 @@
-[![Sal Hack logo](JiyuHackWatermark.png)
+[Sal Hack logo]([JiyuHackWatermark.png](https://media.discordapp.net/attachments/1204558148258504755/1219354020091531294/image.png?ex=660afeec&is=65f889ec&hm=ba4f5888752dfdb4b570ec0e12e70995d22d8b94e102587474479da71a145ff5&=&format=webp&quality=lossless&width=956&height=336))
 
 [![Gradle Build](https://github.com/CreepyOrb924/creepy-salhack/workflows/Gradle%20Build/badge.svg?branch=master)](https://github.com/ionar2/salhack/actions)
 [![GitHub All Releases](https://img.shields.io/github/downloads/CreepyOrb924/creepy-salhack/total.svg)](https://github.com/CreepyOrb924/creepy-salhack/releases)
