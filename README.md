@@ -1,35 +1,38 @@
-# Wurst Client v7
+[![Sal Hack logo](JiyuHackWatermark.png)
 
-## Downloads (for users)
+[![Gradle Build](https://github.com/CreepyOrb924/creepy-salhack/workflows/Gradle%20Build/badge.svg?branch=master)](https://github.com/ionar2/salhack/actions)
+[![GitHub All Releases](https://img.shields.io/github/downloads/CreepyOrb924/creepy-salhack/total.svg)](https://github.com/CreepyOrb924/creepy-salhack/releases)
 
-[https://www.wurstclient.net/download/](https://www.wurstclient.net/download/?utm_source=GitHub&utm_medium=Wurst7&utm_campaign=README.md&utm_content=Downloads+%28for+users%29)
+## Salhack
+Salhack is a Forge mod made by ionar. In 2021, ionar made the decision to leave the project, and as such, Creepy SalHack was born. 
 
-## Setup (for developers)
+ 
+## Installation
 
-(This assumes that you are using Windows with [Eclipse](https://www.eclipse.org/downloads/) and [Java Development Kit 17](https://adoptium.net/?variant=openjdk17&jvmVariant=hotspot) already installed.)
+Salhack is a forge mod for `1.12.2`. We provide already pre build jar files on our [release page](https://github.com/CreepyOrb924/creepy-salhack/releases). To use salhack just drop the jar file in your mods folder and start forge. Have fun!
 
-1. Run this command in PowerShell:
+**Tip:** You can open the GUI containing all "tweaks" with your left arrow at default (You can change that later.)
 
-```
-./gradlew.bat genSources eclipse --no-daemon
-```
+## Support
 
-2. In Eclipse, go to `Import...` > `Existing Projects into Workspace` and select this project.
+If you have a bug or want to suggest a feature raise an issue on Github or contact us via our [Discord](https://discord.gg/B8Tx5HYYBm) server.
 
-## Contributing
+## Info
 
-Pull requests are welcome, but please make sure to read the [contributing guidelines](CONTRIBUTING.md) first.
+Some of the code is pasted and proper credits are not given, but atleast it's open source now? :)
 
-## Translations
+There is no git history because it contains personal info.
 
-We have a [Crowdin project](https://crowdin.com/project/wurst7) for translations. You can also submit translations here on GitHub, but Crowdin is preferred since it makes it much easier to resolve issues.
+Created by `ionar2` and many [others](https://github.com/ionar2/salhack/graphs/contributors). If you have any legal disagreements, please read [this](https://help.github.com/en/github/site-policy/guide-to-submitting-a-dmca-takedown-notice)
 
-To enable translations in-game, go to Wurst Options > Translations > ON.
+## Updates in Creepy Branch
 
-Names of features (hacks/commands/etc.) should always be kept in English. This ensures that everyone can use the same commands, keybinds, etc. regardless of their language setting. It also makes it easier to communicate with someone who uses Wurst in a different language.
+Working on updating to **1.19.4**. 
 
-The translation files are located in [this folder](https://github.com/Wurst-Imperium/Wurst7/tree/master/src/main/resources/assets/wurst/lang), in case you need them.
+Deleted lots of useless mods.
 
-## License
+Added some stuff.
 
-This code is licensed under the GNU General Public License v3. **You can only use this code in open-source clients that you release under the same license! Using it in closed-source/proprietary clients is not allowed!**
+Fixed some bugs.
+
+Check the [release page](https://github.com/CreepyOrb924/creepy-salhack/releases) to see updates in the project
