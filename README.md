@@ -1,10 +1,11 @@
 [![Sal Hack logo](image.png)](https://ibb.co/PGSBT2s)
 
-[![Gradle Build](https://github.com/CreepyOrb924/creepy-salhack/workflows/Gradle%20Build/badge.svg?branch=master)](https://github.com/ionar2/salhack/actions)
-[![GitHub All Releases](https://img.shields.io/github/downloads/CreepyOrb924/creepy-salhack/total.svg)](https://github.com/CreepyOrb924/creepy-salhack/releases)
+## Wurst
+[https://www.wurstclient.net/download/](https://www.wurstclient.net/download/) 
 
-## Salhack
-Salhack is a Forge mod made by ionar. In 2021, ionar made the decision to leave the project, and as such, Creepy SalHack was born. 
+## Salhack 
+
+Salhack is a Forge mod made by ```ionar.```
 
  
 ## Installation
@@ -12,6 +13,18 @@ Salhack is a Forge mod made by ionar. In 2021, ionar made the decision to leave 
 Jiyuhack is a fabric mod for `1.20.4`. We provide already pre build jar files on our [release page](https://github.com/hyeongikas/jiyuhack-client/releases). To use Jiyuhack,  drop the jar file in your mods folder with Fabric API and launch. Have fun!
 
 **Tip:** You can open the GUI containing all "tweaks" with your ```Left Shift``` at default (You can change that later.)
+
+## Setup (for developers)
+
+(This assumes that you are using Windows with [Eclipse](https://www.eclipse.org/downloads/) and [Java Development Kit 17](https://adoptium.net/?variant=openjdk17&jvmVariant=hotspot) already installed.)
+
+1. Run this command in PowerShell:
+
+```
+./gradlew.bat genSources eclipse --no-daemon
+```
+
+2. In Eclipse, go to `Import...` > `Existing Projects into Workspace` and select this project.
 
 ## Support
 
