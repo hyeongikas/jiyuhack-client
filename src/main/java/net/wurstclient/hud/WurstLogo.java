@@ -50,7 +50,7 @@ public final class WurstLogo
 			color = otf.getBackgroundColor();
 		
 		drawQuads(matrixStack, 0, 6, tr.getWidth(version) + 76, 17, color[0],
-			color[1], color[2], 0.5F);
+			color[1], color[2], 0.0F); // Transparent background
 		
 		// draw version string
 		GL11.glEnable(GL11.GL_CULL_FACE);
